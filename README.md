@@ -1,6 +1,6 @@
 # Data-Analysts-Passengers-Load-Factors-
 Load factor in the airport in one month. 
-## Project Overview: This data analysis aims to provide a traffic in January, 2026 in airport. 
+## Project Overview: This data analysis aims to provide a traffic in January, 2026 in airport for monthly meeting with management team. 
 ## Dataset: 
 Dataset are in .csv format. ***Noted: Due to data privacy and governance, some aspect of it had been changed, however the key measurement had not in order to maintain the insightful in this analysis. 
 ## Tools
